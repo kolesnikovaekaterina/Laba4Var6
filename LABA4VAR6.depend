@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1590682647 source:c:\users\79085\desktop\laba4var6\list.cpp
+
+1590683803 source:c:\users\79085\desktop\laba4var6\main.cpp
+	<iostream>
+	"LIST.h"
+
+1590683964 c:\users\79085\desktop\laba4var6\list.h
+	<iostream>
+
